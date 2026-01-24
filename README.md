@@ -71,12 +71,3 @@ The Random Forest model demonstrated the highest discrimination capability among
    ```bash
    jupyter notebook Credit_Card_Behaviour_Score_Prediction.ipynb
 (Ensure that the dataset files (train_dataset_final1.csv and validate_dataset_final.csv) are located in the working directory.)
-
-## Directory Structure
-├── code_22123007_credit.ipynb   # Main source code for analysis and modeling
-
-├── report_22123007_credit.pdf   # Detailed project report and findings
-
-├── output/                      # Generated visualizations and metrics
-
-└── README.md                    # Project documentation
